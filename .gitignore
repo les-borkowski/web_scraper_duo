@@ -1,0 +1,4 @@
+.venv/
+
+# macOS Files
+.DS_Store
