@@ -11,5 +11,5 @@ class Product(scrapy.Item):
     # name = scrapy.Field()
     name = scrapy.Field()
     price = scrapy.Field()
-    images = scrapy.Field()
+    image = scrapy.Field()
     options = scrapy.Field()

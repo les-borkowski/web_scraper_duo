@@ -1,4 +1,3 @@
-from os import name
 import scrapy
 from scrapy.loader import ItemLoader
 from apple.items import Product
@@ -21,7 +20,7 @@ class BananaSpider(scrapy.Spider):
         l = ItemLoader(item=Product(), response=response)
         l.add_xpath('name', '//h1[@id="productTitle"]/text()')
         l.add_xpath('price', '//p[@class="bem-pricing__product-price js-unit-price"]/text()')
-        l.add_xpath('images', '//img[@id="pdpGalleryImage"]/@src')
+        l.add_xpath('image', '//img[@id="pdpGalleryImage"]/@src')
         l.add_xpath('options', '//div[@class="bem-sku-selector__option-wrapper"]/ul/@name')
 
     
