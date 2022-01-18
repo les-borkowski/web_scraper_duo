@@ -1,4 +1,8 @@
 .venv/
+#cache
+apple/__pycache__/
+apple/spiders/__pycache__/
+
 
 # macOS Files
 .DS_Store
