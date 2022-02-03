@@ -3,20 +3,13 @@ Learning web scraping with scrapy
 Simple Web Scraper for wiggle.co.uk (only 3 products at the time)
 
 
-#### spiders:
+## spiders:
 
-#### apple spider
-*First attempt*
+#### eggplant spider
 
-#### banana spider
+*fifth attempt*
+All product options getting extracted now, data model updated, code tweaks
 
-*second attempt, based on an object (item)*
+Sample data: apple/test7.json
 
-#### cherry spider
 
-*third attempt*
-All product options getting extracted now
-
-## Sample data:
-apple/products.jl
-apple/products.json

@@ -14,6 +14,12 @@ class Product(scrapy.Item):
     image = scrapy.Field()
     options = scrapy.Field()
 
-class ProductOptions(scrapy.Item):
+class ProductDetails(scrapy.Item):
+    title = scrapy.Field()
+    colour = scrapy.Field()
+    price = scrapy.Field()
+    availability = scrapy.Field()
+
+class ProductOption(scrapy.Item):
     option = scrapy.Field()
     selection = scrapy.Field()
