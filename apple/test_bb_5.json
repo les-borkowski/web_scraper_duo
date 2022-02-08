@@ -1,0 +1,207 @@
+[
+    {
+        "name": "Insignia™ - 32\" Class N10 Series LED HD TV",
+        "price": null,
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6395/6395127_sd.jpg;maxHeight=640;maxWidth=550",
+        "options": [
+            {
+                "name": "Series",
+                "variations": [
+                    {
+                        "name": "F20 Series",
+                        "state": "available",
+                        "selectionSku": "6447531"
+                    },
+                    {
+                        "name": "F30 Series",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "F50 Series",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "N10 Series",
+                        "state": "selected",
+                        "selectionSku": "6395127"
+                    }
+                ]
+            },
+            {
+                "name": "Resolution",
+                "variations": [
+                    {
+                        "name": "4K (2160p)",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "Full HD (1080p)",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "HD (720p)",
+                        "state": "selected",
+                        "selectionSku": "6395127"
+                    }
+                ]
+            },
+            {
+                "name": "Screen Size Class",
+                "variations": [
+                    {
+                        "name": "19\"",
+                        "state": "available",
+                        "selectionSku": "6394757"
+                    },
+                    {
+                        "name": "24\"",
+                        "state": "available",
+                        "selectionSku": "6394746"
+                    },
+                    {
+                        "name": "32\"",
+                        "state": "selected",
+                        "selectionSku": "6395127"
+                    },
+                    {
+                        "name": "39\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "40\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "42\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "43\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "50\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "55\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "58\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "65\"",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "70\"",
+                        "state": "disabled"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Microsoft - ƒSurface Go 3 – 10.5” Touch-Screen – Intel Pentium Gold – 4GB Memor y- 64GB eMMC - Device Only (Latest Model) - Platinum",
+        "price": "$399.99",
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6478/6478759_sd.jpg;maxHeight=640;maxWidth=550",
+        "options": [
+            {
+                "name": "Processor Model",
+                "variations": [
+                    {
+                        "name": "10th Gen Intel Core i3-10100Y",
+                        "state": "disabled"
+                    },
+                    {
+                        "name": "Intel Pentium Gold 6500Y",
+                        "state": "selected",
+                        "selectionSku": "6478759"
+                    }
+                ]
+            },
+            {
+                "name": "System Memory (RAM)",
+                "variations": [
+                    {
+                        "name": "4GB",
+                        "state": "selected",
+                        "selectionSku": "6478759"
+                    },
+                    {
+                        "name": "8GB",
+                        "state": "disabled"
+                    }
+                ]
+            },
+            {
+                "name": "Total Storage Capacity",
+                "variations": [
+                    {
+                        "name": "64GB",
+                        "state": "selected",
+                        "selectionSku": "6478759"
+                    },
+                    {
+                        "name": "128GB",
+                        "state": "disabled"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Samsung - Galaxy Tab A7 Lite 8.7\" 32GB with Wi-Fi - Dark Gray",
+        "price": null,
+        "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464584_sd.jpg;maxHeight=640;maxWidth=550",
+        "options": [
+            {
+                "name": "Total Storage Capacity",
+                "variations": [
+                    {
+                        "name": "32GB",
+                        "state": "selected",
+                        "selectionSku": "6464584"
+                    },
+                    {
+                        "name": "64GB",
+                        "state": "disabled"
+                    }
+                ]
+            },
+            {
+                "name": "System Memory (RAM)",
+                "variations": [
+                    {
+                        "name": "3GB",
+                        "state": "selected",
+                        "selectionSku": "6464584"
+                    },
+                    {
+                        "name": "4GB",
+                        "state": "disabled"
+                    }
+                ]
+            },
+            {
+                "name": "Color",
+                "variations": [
+                    {
+                        "name": "Dark Gray",
+                        "state": "selected",
+                        "swatchClass": "gray",
+                        "selectionSku": "6464584"
+                    },
+                    {
+                        "name": "Silver",
+                        "state": "available",
+                        "swatchClass": "silver",
+                        "selectionSku": "6464588"
+                    }
+                ]
+            }
+        ]
+    }
+]

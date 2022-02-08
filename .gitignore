@@ -1,7 +1,7 @@
 .venv/
 #cache
 apple/apple/__pycache__/
-apple/apple/spiders/__pycache__/
+pple/apple/spiders/__pycache__/
 
 
 # macOS Files

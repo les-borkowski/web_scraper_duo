@@ -3,7 +3,7 @@ from apple.items import Product, ProductDetails
 
 # set up user agent (perhaps variable)
 
-class CherrySpider(scrapy.Spider):
+class EggplantSpider(scrapy.Spider):
     name = "eggplant"
 
     # add external list here
@@ -23,7 +23,6 @@ class CherrySpider(scrapy.Spider):
             image = product.xpath('//img[@id="pdpGalleryImage"]/@src').get()
 
             item = Product()
-            
 
             
             item_options = []
@@ -38,6 +37,7 @@ class CherrySpider(scrapy.Spider):
                 for choice in choices:
                     
                     # add nested item here
+                    # TODO: do not add info if data == None
                     item_details = ProductDetails()
                     item_details['title'] = choice.xpath('./@title').get()
                     item_details['colour'] = choice.xpath('./input/@data-colour').get()
