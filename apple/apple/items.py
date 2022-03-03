@@ -20,6 +20,6 @@ class ProductDetails(scrapy.Item):
     price = scrapy.Field()
     availability = scrapy.Field()
 
-class ProductOption(scrapy.Item):
-    option = scrapy.Field()
-    selection = scrapy.Field()
+class BB_Variations_Details(scrapy.Item):
+    name = scrapy.Field()
+    variations = scrapy.Field()
